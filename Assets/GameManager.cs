@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     public Stabab stabab;   //Stab vertikal
     public Stabac stabac;   //Stab horizontal
 
+
     //public float speed;    //Diese Variable gilt für alle Skripte, klappt nicht
 
     public static Vector2 bottomLeft;   //Pixel unten-links vom Bildschirm
